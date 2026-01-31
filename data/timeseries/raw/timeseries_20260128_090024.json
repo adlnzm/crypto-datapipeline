@@ -1,0 +1,4034 @@
+[
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:01:35.252000",
+    "price": 88045.46038431428,
+    "market_cap": 1759353671504.1216,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:06:18.983000",
+    "price": 87983.99672864292,
+    "market_cap": 1758179984792.33,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:11:15.214000",
+    "price": 87917.9471730855,
+    "market_cap": 1757843088526.2024,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:15:57.502000",
+    "price": 87900.58269983582,
+    "market_cap": 1756367861395.7598,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:21:36.083000",
+    "price": 87899.98732994078,
+    "market_cap": 1756398369084.4702,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:26:46.736000",
+    "price": 87909.55906049677,
+    "market_cap": 1756349962225.1147,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:31:50.588000",
+    "price": 87878.9742797638,
+    "market_cap": 1756188180009.9258,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:36:04.235000",
+    "price": 87837.32848089919,
+    "market_cap": 1755271326511.405,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:41:57.391000",
+    "price": 87919.84942174418,
+    "market_cap": 1756350531205.3738,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:45:03.583000",
+    "price": 87905.99935715602,
+    "market_cap": 1756625594127.6384,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:52:20.668000",
+    "price": 87861.97421260456,
+    "market_cap": 1755761736228.6396,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T09:56:37.512000",
+    "price": 87817.22952521489,
+    "market_cap": 1755062942072.79,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:01:55.426000",
+    "price": 87778.13353200698,
+    "market_cap": 1753738879154.4304,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:06:17.319000",
+    "price": 87832.46484999346,
+    "market_cap": 1754990132946.5464,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:10:34.808000",
+    "price": 87856.60172314,
+    "market_cap": 1755378403419.1948,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:16:17.519000",
+    "price": 87888.56344325044,
+    "market_cap": 1755378403419.1948,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:20:33.342000",
+    "price": 87911.55303293778,
+    "market_cap": 1756359560354.9836,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:25:54.012000",
+    "price": 87879.37581184482,
+    "market_cap": 1756492662536.5303,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:31:00.995000",
+    "price": 87866.12754732912,
+    "market_cap": 1755952176349.5273,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:36:19.301000",
+    "price": 87775.87022328914,
+    "market_cap": 1753846761605.2134,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:41:15.842000",
+    "price": 87725.27362135811,
+    "market_cap": 1752840008107.4607,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:46:03.007000",
+    "price": 87709.41900515661,
+    "market_cap": 1752438090565.1436,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:51:03.979000",
+    "price": 87710.7872239842,
+    "market_cap": 1752783809847.2385,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T10:56:06.226000",
+    "price": 87693.62511397565,
+    "market_cap": 1752325081653.8801,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:02:10.803000",
+    "price": 87674.71057844856,
+    "market_cap": 1751629307970.3267,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:05:57.644000",
+    "price": 87684.48179797416,
+    "market_cap": 1751858305446.4155,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:10:52.281000",
+    "price": 87738.19195101796,
+    "market_cap": 1753384573905.6365,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:16:37.991000",
+    "price": 87774.57363881526,
+    "market_cap": 1753384573905.6365,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:20:29.110000",
+    "price": 87740.04192110305,
+    "market_cap": 1753395573831.4724,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:26:54.569000",
+    "price": 87732.00878075314,
+    "market_cap": 1752531490781.1965,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:31:48.099000",
+    "price": 87762.93413705219,
+    "market_cap": 1753464488074.2002,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:36:47.239000",
+    "price": 87871.23528012456,
+    "market_cap": 1754790360605.3228,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:41:48.740000",
+    "price": 87851.57733802412,
+    "market_cap": 1755181848575.4397,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:46:44.954000",
+    "price": 87915.03428645848,
+    "market_cap": 1756931706743.8982,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:50:18.170000",
+    "price": 87943.69715010579,
+    "market_cap": 1756957269245.1946,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T11:55:06.776000",
+    "price": 87932.67391664303,
+    "market_cap": 1757112770131.5056,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:00:29.162000",
+    "price": 87892.82067658257,
+    "market_cap": 1756888002130.008,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:05:16.509000",
+    "price": 87883.43394605564,
+    "market_cap": 1755894615287.863,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:10:19.781000",
+    "price": 87893.0951856282,
+    "market_cap": 1755894615287.863,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:16:08.244000",
+    "price": 87971.67736090971,
+    "market_cap": 1756503678946.2168,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:21:05.266000",
+    "price": 87998.38262114125,
+    "market_cap": 1758306066962.1726,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:26:07.286000",
+    "price": 88025.56324644538,
+    "market_cap": 1758665103414.7627,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:31:07.033000",
+    "price": 87927.3417905487,
+    "market_cap": 1757239728074.7654,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:36:19.217000",
+    "price": 87932.00630758348,
+    "market_cap": 1756979794008.5698,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:41:29.526000",
+    "price": 87902.36680218973,
+    "market_cap": 1756571367403.9045,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:46:31.443000",
+    "price": 87885.40089383065,
+    "market_cap": 1756121633047.4712,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:51:35.686000",
+    "price": 87883.80058075371,
+    "market_cap": 1755972762001.7458,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T12:55:23.631000",
+    "price": 87894.70269847012,
+    "market_cap": 1756372841662.6943,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:00:53.484000",
+    "price": 87866.67286099448,
+    "market_cap": 1755447041651.057,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:06:05.357000",
+    "price": 87885.70069115932,
+    "market_cap": 1756054556022.7358,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:11:21.717000",
+    "price": 87812.60894536517,
+    "market_cap": 1756054556022.7358,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:16:19.830000",
+    "price": 87803.91967505694,
+    "market_cap": 1754594101225.197,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:20:17.266000",
+    "price": 87733.21120544031,
+    "market_cap": 1753905768500.1406,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:25:16.355000",
+    "price": 87760.30841884589,
+    "market_cap": 1753242221802.2397,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:29:58.460000",
+    "price": 87716.49420746819,
+    "market_cap": 1753158221236.4744,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:35:21.175000",
+    "price": 87780.45360258862,
+    "market_cap": 1753342250497.5906,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:40:14.434000",
+    "price": 87900.96825866365,
+    "market_cap": 1756163735083.3765,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:45:58.910000",
+    "price": 87921.99594020392,
+    "market_cap": 1756843265970.7239,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:51:06.027000",
+    "price": 87803.14184573697,
+    "market_cap": 1756702258854.5088,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T13:56:49.605000",
+    "price": 87874.4053822863,
+    "market_cap": 1754835719032.4417,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:00:49.363000",
+    "price": 87862.20040644784,
+    "market_cap": 1755497919919.516,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:06:45.079000",
+    "price": 87929.954425515,
+    "market_cap": 1757043892801.2915,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:10:51.137000",
+    "price": 87907.72038528265,
+    "market_cap": 1757043892801.2915,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:15:51.303000",
+    "price": 88142.86245028407,
+    "market_cap": 1759361184420.8171,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:20:47.951000",
+    "price": 88157.22984372752,
+    "market_cap": 1762883546579.161,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:25:06.844000",
+    "price": 88148.1529514235,
+    "market_cap": 1761287842226.87,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:30:57.605000",
+    "price": 88147.35659128714,
+    "market_cap": 1761376762557.824,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:36:19.386000",
+    "price": 88040.76983118187,
+    "market_cap": 1759549152565.8645,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:41:19.649000",
+    "price": 87749.40320395894,
+    "market_cap": 1754065619085.4785,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:46:03.876000",
+    "price": 87627.44149412974,
+    "market_cap": 1752229719721.0227,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:51:34.175000",
+    "price": 87688.92613786053,
+    "market_cap": 1752449597922.1445,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T14:57:04.670000",
+    "price": 87690.41068037144,
+    "market_cap": 1751718242971.9421,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:00:20.932000",
+    "price": 87639.40066046447,
+    "market_cap": 1752080698629.3594,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:06:40.790000",
+    "price": 87618.39686779061,
+    "market_cap": 1751362721589.9722,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:11:45.120000",
+    "price": 87844.73171875988,
+    "market_cap": 1751362721589.9722,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:16:34.801000",
+    "price": 87844.60664654548,
+    "market_cap": 1756342932504.2454,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:21:36.220000",
+    "price": 87700.66992895528,
+    "market_cap": 1752362082665.0132,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:26:18.379000",
+    "price": 87629.5362850422,
+    "market_cap": 1750916520613.918,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:30:06.474000",
+    "price": 87612.18263529889,
+    "market_cap": 1751274884033.3572,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:36:39.713000",
+    "price": 87573.3771734723,
+    "market_cap": 1749715160334.0183,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:41:39.926000",
+    "price": 87650.85857780748,
+    "market_cap": 1751580884332.9001,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:45:20.532000",
+    "price": 87580.34389041927,
+    "market_cap": 1751400287480.8262,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:51:01.049000",
+    "price": 87795.48035245035,
+    "market_cap": 1751668256868.5286,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T15:56:44.778000",
+    "price": 87804.24802474379,
+    "market_cap": 1753587465270.0332,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:01:17.418000",
+    "price": 87924.6147096375,
+    "market_cap": 1756545408778.0168,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:05:02.132000",
+    "price": 87983.4671432115,
+    "market_cap": 1757008847633.8772,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:10:30.709000",
+    "price": 88396.60267661745,
+    "market_cap": 1766284415165.9045,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:15:58.534000",
+    "price": 88375.41208450377,
+    "market_cap": 1766284415165.9045,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:20:56.008000",
+    "price": 88389.89916504662,
+    "market_cap": 1765326885489.2583,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:25:15.156000",
+    "price": 88442.59655728126,
+    "market_cap": 1766396325217.7832,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:30:36.412000",
+    "price": 88255.17243033697,
+    "market_cap": 1763219309043.4941,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:35:16.662000",
+    "price": 88497.23266108986,
+    "market_cap": 1769352539671.493,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:41:06.968000",
+    "price": 88567.04556686003,
+    "market_cap": 1768461846541.6284,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:46:41.145000",
+    "price": 88620.47079043626,
+    "market_cap": 1770977983477.6653,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:50:13.363000",
+    "price": 88658.07994690532,
+    "market_cap": 1771425267843.4253,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T16:55:32.390000",
+    "price": 88578.81778306868,
+    "market_cap": 1769824147343.8245,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:01:22.410000",
+    "price": 88534.70663653797,
+    "market_cap": 1769219061098.1477,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:06:13.619000",
+    "price": 88497.47645452667,
+    "market_cap": 1768818475000.3484,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:11:04.524000",
+    "price": 88161.68822397421,
+    "market_cap": 1764287130085.9736,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:15:24.109000",
+    "price": 87967.02635511472,
+    "market_cap": 1764287130085.9736,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:20:08.194000",
+    "price": 87599.28957843891,
+    "market_cap": 1752528722595.6926,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:26:49.811000",
+    "price": 87719.88647778913,
+    "market_cap": 1750279007050.9636,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:31:45.026000",
+    "price": 87750.17895472188,
+    "market_cap": 1754361643366.264,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:36:46.990000",
+    "price": 87687.29068224126,
+    "market_cap": 1751988249844.2483,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:41:42.495000",
+    "price": 87499.12918724307,
+    "market_cap": 1748485756405.579,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:45:07.094000",
+    "price": 87315.1847403994,
+    "market_cap": 1747314489894.0952,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:50:58.761000",
+    "price": 87320.65078545931,
+    "market_cap": 1744128602359.3867,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T17:56:14.084000",
+    "price": 87373.54069128846,
+    "market_cap": 1745989469983.638,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:00:58.228000",
+    "price": 87435.12026106454,
+    "market_cap": 1747131044964.4285,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:05:39.138000",
+    "price": 87654.04555550111,
+    "market_cap": 1747131044964.4285,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:11:43.023000",
+    "price": 87452.58939313103,
+    "market_cap": 1747865176544.671,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:15:09.975000",
+    "price": 87524.38547692471,
+    "market_cap": 1747865176544.671,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:20:32.017000",
+    "price": 87653.60867692714,
+    "market_cap": 1751581843190.2722,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:25:58.837000",
+    "price": 87725.69098058721,
+    "market_cap": 1751496392513.9656,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:31:25.580000",
+    "price": 87771.09464067085,
+    "market_cap": 1753478936152.131,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:36:49.872000",
+    "price": 87716.1736389834,
+    "market_cap": 1752586295146.1667,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:41:35.920000",
+    "price": 87733.51441137209,
+    "market_cap": 1752474133915.6116,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:46:54.275000",
+    "price": 87736.4965412756,
+    "market_cap": 1753311835741.2678,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:51:04.738000",
+    "price": 87823.08237626603,
+    "market_cap": 1754535499629.1658,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T18:56:42.864000",
+    "price": 88058.64869522271,
+    "market_cap": 1757802574979.9185,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:01:45.752000",
+    "price": 88153.60150288578,
+    "market_cap": 1763458068714.4983,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:05:29.188000",
+    "price": 88066.80280992005,
+    "market_cap": 1761447185075.308,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:11:33.890000",
+    "price": 88032.70633942555,
+    "market_cap": 1757822506947.5942,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:15:28.882000",
+    "price": 88081.23698327274,
+    "market_cap": 1757822506947.5942,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:20:33.875000",
+    "price": 88119.15532327036,
+    "market_cap": 1760293122551.9521,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:25:33.242000",
+    "price": 88193.55806744291,
+    "market_cap": 1762214709941.2356,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:31:30.480000",
+    "price": 88134.86203307241,
+    "market_cap": 1761062044844.2075,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:35:38.615000",
+    "price": 88127.0577036589,
+    "market_cap": 1760700226900.1436,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:41:28.055000",
+    "price": 88222.853885263,
+    "market_cap": 1762187917156.7183,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:45:09.707000",
+    "price": 88348.5729269483,
+    "market_cap": 1763186816609.5967,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:50:52.175000",
+    "price": 88348.49568019374,
+    "market_cap": 1765033752017.0747,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T19:56:08.100000",
+    "price": 88291.72890690643,
+    "market_cap": 1764265853899.4912,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:01:44.532000",
+    "price": 88287.18794610914,
+    "market_cap": 1764026184589.9895,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:06:34.088000",
+    "price": 88404.73754113719,
+    "market_cap": 1765668090245.962,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:11:38.188000",
+    "price": 88532.84908635126,
+    "market_cap": 1766518675272.8486,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:16:58.964000",
+    "price": 88593.62908464558,
+    "market_cap": 1770470840293.7512,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:20:24.123000",
+    "price": 88699.41782279873,
+    "market_cap": 1771299385819.5747,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:25:46.460000",
+    "price": 88944.65738446501,
+    "market_cap": 1777525564008.0264,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:30:46.132000",
+    "price": 89005.04005134171,
+    "market_cap": 1777277284757.974,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:35:27.810000",
+    "price": 88917.29076147369,
+    "market_cap": 1775410654764.3618,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:40:27.355000",
+    "price": 88862.32381592887,
+    "market_cap": 1775580840920.9717,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:45:22.355000",
+    "price": 88804.11951589146,
+    "market_cap": 1773700228539.4036,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:50:27.186000",
+    "price": 89265.38591229153,
+    "market_cap": 1780909984323.1018,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T20:56:02.139000",
+    "price": 89319.64452482747,
+    "market_cap": 1784657089485.389,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:01:28.765000",
+    "price": 89269.21442355588,
+    "market_cap": 1783378794181.3591,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:04:59.624000",
+    "price": 89246.83169294726,
+    "market_cap": 1783208236464.983,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:10:38.802000",
+    "price": 89375.24144335027,
+    "market_cap": 1785525209955.85,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:15:55.890000",
+    "price": 89283.55519260782,
+    "market_cap": 1785525209955.85,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:20:57.588000",
+    "price": 89203.7447117668,
+    "market_cap": 1782931064035.9395,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:26:30.986000",
+    "price": 89144.71197397284,
+    "market_cap": 1781607047524.2686,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:31:37.131000",
+    "price": 89159.78007396743,
+    "market_cap": 1781458631275.1338,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:35:50.157000",
+    "price": 89119.10125283647,
+    "market_cap": 1780246962648.498,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:41:00.325000",
+    "price": 89077.51927162125,
+    "market_cap": 1779936819033.5278,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:46:07.726000",
+    "price": 89084.5333343839,
+    "market_cap": 1779621986717.1338,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:50:12.165000",
+    "price": 89094.38625370467,
+    "market_cap": 1781004519603.6265,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T21:55:49.131000",
+    "price": 89029.91435779915,
+    "market_cap": 1779000666698.376,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:01:06.360000",
+    "price": 88978.3196181541,
+    "market_cap": 1777778152650.418,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:06:19.880000",
+    "price": 89026.28191002418,
+    "market_cap": 1779792152886.5396,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:11:24.993000",
+    "price": 88991.6837112517,
+    "market_cap": 1778365229150.9573,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:16:18.572000",
+    "price": 89042.47262264029,
+    "market_cap": 1779183467790.0361,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:22:15.396000",
+    "price": 88928.45306174246,
+    "market_cap": 1778403405014.2668,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:25:10.984000",
+    "price": 88998.85982619869,
+    "market_cap": 1776945893929.334,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:30:58.206000",
+    "price": 89040.64613676834,
+    "market_cap": 1778971078013.9158,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:35:05.375000",
+    "price": 89054.8300731071,
+    "market_cap": 1779388653457.4268,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:40:33.466000",
+    "price": 89211.68450868958,
+    "market_cap": 1782520246467.093,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:46:29.074000",
+    "price": 89221.75741880832,
+    "market_cap": 1782947720721.5474,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:51:24.167000",
+    "price": 89144.63280085858,
+    "market_cap": 1782026345225.8745,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T22:55:56.815000",
+    "price": 89170.94137179168,
+    "market_cap": 1781578814916.3337,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:01:30.625000",
+    "price": 89119.68357825458,
+    "market_cap": 1780747008014.1553,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:06:37.234000",
+    "price": 89055.29089842536,
+    "market_cap": 1779735686897.1462,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:12:50.552000",
+    "price": 89161.70564515231,
+    "market_cap": 1779547310795.4224,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:16:27.535000",
+    "price": 89197.31140643108,
+    "market_cap": 1782143534812.6968,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:21:04.986000",
+    "price": 89200.39350771451,
+    "market_cap": 1782121440106.313,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:26:22.559000",
+    "price": 89292.3282593438,
+    "market_cap": 1784134579594.8518,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:31:28.852000",
+    "price": 89393.99916155878,
+    "market_cap": 1785812698014.9348,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:35:49.103000",
+    "price": 89349.24159986188,
+    "market_cap": 1785432627056.4392,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:41:26.590000",
+    "price": 89352.92388535297,
+    "market_cap": 1785120980480.305,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:45:48.086000",
+    "price": 89315.04248173158,
+    "market_cap": 1784621715842.2458,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:50:53.414000",
+    "price": 89323.18673626683,
+    "market_cap": 1785756507742.177,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-27T23:55:09.581000",
+    "price": 89204.22239644526,
+    "market_cap": 1782508769730.2656,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:00:20.244000",
+    "price": 89129.16272347324,
+    "market_cap": 1780916539126.536,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:05:32.007000",
+    "price": 89054.5930239022,
+    "market_cap": 1780916539126.536,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:10:58.618000",
+    "price": 89151.17759741194,
+    "market_cap": 1780916539126.536,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:16:20.475000",
+    "price": 89127.91131206864,
+    "market_cap": 1781210944044.7246,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:21:14.879000",
+    "price": 89109.12726591084,
+    "market_cap": 1780242377741.4268,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:26:06.054000",
+    "price": 89199.35155302413,
+    "market_cap": 1781268451386.1877,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:31:09.209000",
+    "price": 89196.52734590997,
+    "market_cap": 1782557175755.8853,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:36:01.647000",
+    "price": 89099.06531722288,
+    "market_cap": 1780533001793.5474,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:40:46.811000",
+    "price": 89076.53576314537,
+    "market_cap": 1780604988670.6829,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:45:07.372000",
+    "price": 89081.07943693585,
+    "market_cap": 1780024371174.1118,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:50:04.139000",
+    "price": 89116.69193458585,
+    "market_cap": 1780316933310.5544,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T00:56:21.128000",
+    "price": 89249.30668661927,
+    "market_cap": 1783553630912.4692,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:01:41.473000",
+    "price": 89310.23966133092,
+    "market_cap": 1784389587281.2463,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:06:33.052000",
+    "price": 89332.28059486617,
+    "market_cap": 1784782735890.4468,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:10:11.357000",
+    "price": 89337.85277425306,
+    "market_cap": 1784930431147.457,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:15:30.545000",
+    "price": 89260.25433654366,
+    "market_cap": 1784930431147.457,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:20:50.085000",
+    "price": 89349.58047986137,
+    "market_cap": 1785180395822.5452,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:26:22.078000",
+    "price": 89269.47333068671,
+    "market_cap": 1784338365109.5798,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:31:40.565000",
+    "price": 89224.07332068264,
+    "market_cap": 1782631559188.2354,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:36:15.844000",
+    "price": 89162.01881952527,
+    "market_cap": 1780667012256.786,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:41:44.750000",
+    "price": 89179.25918850122,
+    "market_cap": 1781915200147.4426,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:46:04.837000",
+    "price": 89232.39760824331,
+    "market_cap": 1782499373192.5542,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:51:15.489000",
+    "price": 89214.68564161795,
+    "market_cap": 1782979082930.0552,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T01:55:52.470000",
+    "price": 89316.54313990969,
+    "market_cap": 1783451769385.0063,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:01:46.842000",
+    "price": 89277.56889441251,
+    "market_cap": 1784567026017.3057,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:06:04.509000",
+    "price": 89302.11683215701,
+    "market_cap": 1784399116385.6675,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:11:05.891000",
+    "price": 89179.3670600047,
+    "market_cap": 1782226030937.3718,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:16:25.986000",
+    "price": 89162.5770808746,
+    "market_cap": 1782226030937.3718,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:21:33.141000",
+    "price": 89170.54772224586,
+    "market_cap": 1782078984584.1643,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:26:38.431000",
+    "price": 89174.7873504373,
+    "market_cap": 1782144421602.3386,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:31:37.277000",
+    "price": 89215.02098910586,
+    "market_cap": 1782497418136.1987,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:36:03.162000",
+    "price": 89122.41530635295,
+    "market_cap": 1781457674293.5251,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:42:00.938000",
+    "price": 89111.69156867053,
+    "market_cap": 1779796069720.3655,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:46:05.940000",
+    "price": 89044.81218384737,
+    "market_cap": 1779963284649.8867,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:50:23.945000",
+    "price": 89005.47642684386,
+    "market_cap": 1778867183356.1785,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T02:55:47.757000",
+    "price": 89037.60726667359,
+    "market_cap": 1779298340008.23,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:01:46.794000",
+    "price": 89153.86818390692,
+    "market_cap": 1781348388792.498,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:06:17.381000",
+    "price": 89089.80936041044,
+    "market_cap": 1780881813906.3228,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:11:18.106000",
+    "price": 89039.3833136338,
+    "market_cap": 1780201428292.4568,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:16:22.852000",
+    "price": 88954.46988060916,
+    "market_cap": 1777383619719.2795,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:20:10.757000",
+    "price": 88898.65205960075,
+    "market_cap": 1776462209225.8694,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:25:10.786000",
+    "price": 88956.96551012446,
+    "market_cap": 1777019905091.3843,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:30:51.510000",
+    "price": 88937.1472942831,
+    "market_cap": 1777043372236.91,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:35:10.876000",
+    "price": 88966.0388912282,
+    "market_cap": 1776548452130.0632,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:40:38.004000",
+    "price": 88960.0990440502,
+    "market_cap": 1777722720488.9705,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:45:10.481000",
+    "price": 88945.34951890618,
+    "market_cap": 1777543199821.3022,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:50:29.499000",
+    "price": 89018.15807405915,
+    "market_cap": 1778559906302.6848,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T03:55:17.425000",
+    "price": 89016.0867034236,
+    "market_cap": 1778677930759.741,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:01:57.244000",
+    "price": 89007.47985424487,
+    "market_cap": 1778567867999.046,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:05:30.603000",
+    "price": 88996.43005857333,
+    "market_cap": 1778743702049.6519,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:10:39.823000",
+    "price": 88881.29084261811,
+    "market_cap": 1778265951608.6152,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:16:16.880000",
+    "price": 88818.87180307423,
+    "market_cap": 1775698764570.1062,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:21:26.730000",
+    "price": 88744.03562505812,
+    "market_cap": 1773228121069.7527,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:26:33.030000",
+    "price": 88737.89432033588,
+    "market_cap": 1773632180953.3086,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:30:31.097000",
+    "price": 88778.56904258739,
+    "market_cap": 1773912049055.5422,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:36:37.448000",
+    "price": 88891.98047393157,
+    "market_cap": 1776085743087.1155,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:41:37.310000",
+    "price": 88961.01120683437,
+    "market_cap": 1776129236167.1868,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:46:44.829000",
+    "price": 88886.00634868587,
+    "market_cap": 1776520063916.8237,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:53:14.248000",
+    "price": 88869.3727800932,
+    "market_cap": 1775824657249.328,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T04:56:43.590000",
+    "price": 88862.81842506489,
+    "market_cap": 1775685579949.1023,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:02:17.452000",
+    "price": 88907.50009004466,
+    "market_cap": 1775753174091.2124,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:06:36.522000",
+    "price": 88905.7421704012,
+    "market_cap": 1776648649528.4734,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:11:48.844000",
+    "price": 88916.87632712825,
+    "market_cap": 1776701014968.3562,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:16:46.925000",
+    "price": 88802.83832455637,
+    "market_cap": 1776701014968.3562,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:22:02.978000",
+    "price": 88783.69007443095,
+    "market_cap": 1774160440835.41,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:26:46.218000",
+    "price": 88781.1747330614,
+    "market_cap": 1773867331478.4973,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:31:42.969000",
+    "price": 88804.26262592968,
+    "market_cap": 1773544938240.553,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:35:18.249000",
+    "price": 88833.35291581269,
+    "market_cap": 1774072985374.1035,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:41:02.172000",
+    "price": 88871.63604560515,
+    "market_cap": 1775532500556.0186,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:45:11.676000",
+    "price": 88887.35521010951,
+    "market_cap": 1776201864551.058,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:50:18.797000",
+    "price": 88871.02098273713,
+    "market_cap": 1776355492369.808,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T05:55:46.766000",
+    "price": 88862.42621117982,
+    "market_cap": 1775535516230.4556,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:01:38.626000",
+    "price": 89002.21299070446,
+    "market_cap": 1777478282527.8496,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:06:24.844000",
+    "price": 89111.50274268906,
+    "market_cap": 1777478282527.8496,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:11:37.638000",
+    "price": 89082.61796366295,
+    "market_cap": 1779956251234.3354,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:16:45.457000",
+    "price": 89138.01445517919,
+    "market_cap": 1779956251234.3354,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:21:32.361000",
+    "price": 89130.46829370658,
+    "market_cap": 1780860925494.6826,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:26:36.607000",
+    "price": 89135.95034085945,
+    "market_cap": 1781006423649.0757,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:31:31.797000",
+    "price": 89106.28320859319,
+    "market_cap": 1780604603908.489,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:35:17.508000",
+    "price": 89182.96859513917,
+    "market_cap": 1782019599719.9277,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:40:49.387000",
+    "price": 89080.68391511672,
+    "market_cap": 1779966890013.0334,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:46:02.593000",
+    "price": 89053.01719778447,
+    "market_cap": 1779395577624.2256,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:50:03.573000",
+    "price": 89064.54929560168,
+    "market_cap": 1779584334502.5386,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T06:56:16.272000",
+    "price": 89237.50655605979,
+    "market_cap": 1783170900757.5334,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:01:32.218000",
+    "price": 89223.36341948027,
+    "market_cap": 1782951395343.5288,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:05:59.892000",
+    "price": 89253.84363056089,
+    "market_cap": 1783056268339.8174,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:11:04.968000",
+    "price": 89265.95071596198,
+    "market_cap": 1783311816730.2097,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:15:50.367000",
+    "price": 89124.8486967697,
+    "market_cap": 1783311816730.2097,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:21:06.823000",
+    "price": 89132.00130410433,
+    "market_cap": 1780629970472.6003,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:26:26.790000",
+    "price": 89131.00183667005,
+    "market_cap": 1780738449181.0786,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:31:41.814000",
+    "price": 89110.78860714631,
+    "market_cap": 1780556885702.2156,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:36:50.614000",
+    "price": 89082.2384238,
+    "market_cap": 1780296030738.891,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:40:47.064000",
+    "price": 89090.83540463945,
+    "market_cap": 1780079987479.0632,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:45:04.036000",
+    "price": 89108.23923359146,
+    "market_cap": 1780320853834.0256,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:50:18.100000",
+    "price": 89136.35533898488,
+    "market_cap": 1780998597725.623,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T07:55:35.463000",
+    "price": 89066.74840105984,
+    "market_cap": 1781306323471.2815,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:00:40.128000",
+    "price": 89039.39244771106,
+    "market_cap": 1779452391305.5493,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:06:20.557000",
+    "price": 89102.23422665632,
+    "market_cap": 1779799753802.313,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:11:35.323000",
+    "price": 89072.37665535929,
+    "market_cap": 1779797692712.604,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:16:47.550000",
+    "price": 89059.87062370483,
+    "market_cap": 1779554246536.4324,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:21:39.992000",
+    "price": 89023.84742068428,
+    "market_cap": 1778522748272.3196,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:26:47.237000",
+    "price": 89042.46236957848,
+    "market_cap": 1779194393228.431,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:31:37.896000",
+    "price": 88966.94816062877,
+    "market_cap": 1777637162176.7476,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:36:28.629000",
+    "price": 88954.61063004659,
+    "market_cap": 1777586958211.6726,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:40:39.083000",
+    "price": 89007.47665136904,
+    "market_cap": 1777691028706.1938,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:46:27.080000",
+    "price": 88995.3879709918,
+    "market_cap": 1778617764990.3367,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:50:24.292000",
+    "price": 88969.93731725507,
+    "market_cap": 1777593691380.7952,
+    "volume": null
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": "2026-01-28T08:55:05.983000",
+    "price": 88938.68902589788,
+    "market_cap": 1777193488798.1426,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:01:35",
+    "price": 2918.831535938616,
+    "market_cap": 352302803635.76245,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:05:36.959000",
+    "price": 2915.6890103482638,
+    "market_cap": 351963997535.48895,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:10:51.763000",
+    "price": 2912.0388258925054,
+    "market_cap": 351807034333.0707,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:16:12.014000",
+    "price": 2909.612920838791,
+    "market_cap": 351200323504.9516,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:20:00.844000",
+    "price": 2909.783717193469,
+    "market_cap": 351308939136.18445,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:25:32.101000",
+    "price": 2909.2800594124915,
+    "market_cap": 351128015210.2849,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:30:37.381000",
+    "price": 2907.73940516426,
+    "market_cap": 350967379675.1213,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:36:16.520000",
+    "price": 2906.509573342015,
+    "market_cap": 350856928880.78217,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:41:16.253000",
+    "price": 2910.1081532650987,
+    "market_cap": 351088777533.84937,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:47:05.122000",
+    "price": 2910.648983834325,
+    "market_cap": 351286211387.1463,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:52:20.052000",
+    "price": 2909.416191684745,
+    "market_cap": 351229394409.5179,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T09:55:47.243000",
+    "price": 2904.650561525734,
+    "market_cap": 350793844215.79565,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:00:19.538000",
+    "price": 2904.794887097573,
+    "market_cap": 350505781010.9313,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:06:16.143000",
+    "price": 2906.5472665742714,
+    "market_cap": 350796798821.5295,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:10:12.691000",
+    "price": 2907.2338834262964,
+    "market_cap": 350881717109.2414,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:16:37.073000",
+    "price": 2909.8840225337904,
+    "market_cap": 350881717109.2414,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:20:31.038000",
+    "price": 2909.7587465308416,
+    "market_cap": 351191569973.11194,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:25:11.826000",
+    "price": 2909.1852276316436,
+    "market_cap": 351171582159.0136,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:31:03.873000",
+    "price": 2908.0505166413327,
+    "market_cap": 351045808187.6257,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:35:56.560000",
+    "price": 2904.4336343570176,
+    "market_cap": 350529465653.89374,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:40:51.210000",
+    "price": 2901.6504700533606,
+    "market_cap": 350278592771.0141,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:46:14.775000",
+    "price": 2902.3162602197303,
+    "market_cap": 350143139940.8675,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:51:56.430000",
+    "price": 2902.047551588808,
+    "market_cap": 350349430290.9385,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T10:56:51.835000",
+    "price": 2901.4761860826143,
+    "market_cap": 350199380950.32153,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:02:21.602000",
+    "price": 2899.3456735902378,
+    "market_cap": 349928060248.36694,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:06:41.874000",
+    "price": 2902.145799409598,
+    "market_cap": 350142024395.64435,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:11:42.983000",
+    "price": 2901.949429282492,
+    "market_cap": 350320464865.1058,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:16:38.069000",
+    "price": 2903.1985019963736,
+    "market_cap": 350399785231.4339,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:21:37.197000",
+    "price": 2902.001237831581,
+    "market_cap": 350361198414.0987,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:26:45.270000",
+    "price": 2902.156424913281,
+    "market_cap": 350191717277.00653,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:31:48.418000",
+    "price": 2904.5863090992075,
+    "market_cap": 350454059326.66327,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:36:45.196000",
+    "price": 2910.1684687083834,
+    "market_cap": 350852638742.4145,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:41:49.014000",
+    "price": 2910.603102915182,
+    "market_cap": 351190571543.98254,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:46:44.516000",
+    "price": 2914.1787013156554,
+    "market_cap": 351845033368.12885,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:51:35.864000",
+    "price": 2916.5808658184196,
+    "market_cap": 351954473189.1251,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T11:56:48.052000",
+    "price": 2915.4712955542673,
+    "market_cap": 351880291581.9757,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:01:58.348000",
+    "price": 2913.1901213805563,
+    "market_cap": 351581072097.2292,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:06:47.231000",
+    "price": 2914.573573832948,
+    "market_cap": 351581072097.2292,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:11:44.627000",
+    "price": 2914.29698540869,
+    "market_cap": 351581072097.2292,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:16:53.433000",
+    "price": 2916.4718844440004,
+    "market_cap": 351760688098.1426,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:21:47.063000",
+    "price": 2916.997586007951,
+    "market_cap": 352031467358.0822,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:26:40.203000",
+    "price": 2922.1237338879805,
+    "market_cap": 352634370682.1655,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:31:43.403000",
+    "price": 2921.376664399581,
+    "market_cap": 352600385258.3456,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:36:48.521000",
+    "price": 2921.3173906047487,
+    "market_cap": 352558966271.4584,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:41:52.272000",
+    "price": 2917.8698157563294,
+    "market_cap": 352381894844.62976,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:46:32.247000",
+    "price": 2916.1689293481777,
+    "market_cap": 351887808832.36,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:51:36.230000",
+    "price": 2914.6184798796785,
+    "market_cap": 351773764524.06665,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T12:56:46.253000",
+    "price": 2914.3426530859238,
+    "market_cap": 351836273084.2865,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:02:05.390000",
+    "price": 2914.190291906113,
+    "market_cap": 351602892342.20087,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:06:49.828000",
+    "price": 2913.5979747023384,
+    "market_cap": 351715368646.87506,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:11:46.460000",
+    "price": 2909.9068602714397,
+    "market_cap": 351252354523.11127,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:16:49.113000",
+    "price": 2910.271991662437,
+    "market_cap": 351252354523.11127,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:21:38.602000",
+    "price": 2905.024522208143,
+    "market_cap": 350747967721.3644,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:26:44.261000",
+    "price": 2904.3254072931386,
+    "market_cap": 350695876038.92615,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:31:37.066000",
+    "price": 2904.7251107746297,
+    "market_cap": 350509734765.4128,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:37:01.216000",
+    "price": 2908.44342623184,
+    "market_cap": 350951900908.8173,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:41:39.463000",
+    "price": 2910.1976157449253,
+    "market_cap": 351320931467.7638,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:46:46.725000",
+    "price": 2911.8707777359105,
+    "market_cap": 351533093807.47314,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:51:36.867000",
+    "price": 2906.1065533203396,
+    "market_cap": 350754575645.5344,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T13:56:49.489000",
+    "price": 2908.2935815599803,
+    "market_cap": 350814984900.7834,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:01:54.458000",
+    "price": 2908.330803954804,
+    "market_cap": 350979654090.60956,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:06:49.231000",
+    "price": 2914.9461951098974,
+    "market_cap": 351826012917.75305,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:11:02.444000",
+    "price": 2914.038020684903,
+    "market_cap": 351826012917.75305,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:15:22.230000",
+    "price": 2919.9335450071226,
+    "market_cap": 352153521622.0648,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:20:47.573000",
+    "price": 2927.2314389214425,
+    "market_cap": 353826321225.3633,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:26:24.753000",
+    "price": 2928.7238833483734,
+    "market_cap": 353255235505.97034,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:30:57.633000",
+    "price": 2925.369038427855,
+    "market_cap": 353126142174.8033,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:36:05.331000",
+    "price": 2921.4940368349353,
+    "market_cap": 352823633085.4606,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:40:58.144000",
+    "price": 2910.6760472725373,
+    "market_cap": 351419029183.25446,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:46:05.291000",
+    "price": 2909.427071942153,
+    "market_cap": 351357420801.3834,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:51:12.928000",
+    "price": 2913.1309725264277,
+    "market_cap": 351598578747.67303,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T14:56:32.920000",
+    "price": 2916.194730272971,
+    "market_cap": 351713931236.06775,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:01:14.312000",
+    "price": 2914.0229239545097,
+    "market_cap": 351735317033.7128,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:05:24.382000",
+    "price": 2919.3316222804074,
+    "market_cap": 351866919476.946,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:11:45.278000",
+    "price": 2924.748707498275,
+    "market_cap": 352307096212.8475,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:16:41.540000",
+    "price": 2925.190657274955,
+    "market_cap": 353243176483.6024,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:20:28.114000",
+    "price": 2923.08006569676,
+    "market_cap": 352752492403.4779,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:26:18.430000",
+    "price": 2917.2340839903077,
+    "market_cap": 352042558206.60565,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:31:15.304000",
+    "price": 2913.5780628251546,
+    "market_cap": 351842990826.59174,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:36:39.773000",
+    "price": 2913.5295419539493,
+    "market_cap": 351616318131.7455,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:41:40.379000",
+    "price": 2917.642507303534,
+    "market_cap": 352037386722.5449,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:45:20.069000",
+    "price": 2914.8830931232087,
+    "market_cap": 352136503344.98065,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:50:40.317000",
+    "price": 2925.4686557978216,
+    "market_cap": 352548166885.1474,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T15:56:44.738000",
+    "price": 2930.5281226928178,
+    "market_cap": 353249551579.821,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:02:13.659000",
+    "price": 2936.566157811463,
+    "market_cap": 354075217463.79926,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:06:45.689000",
+    "price": 2946.839286752303,
+    "market_cap": 355073713224.0302,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:11:46.530000",
+    "price": 2967.2543945122525,
+    "market_cap": 357155860163.36676,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:16:51.594000",
+    "price": 2970.1533887323585,
+    "market_cap": 357155860163.36676,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:20:43.921000",
+    "price": 2969.3267509771536,
+    "market_cap": 358815258217.2957,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:26:48.859000",
+    "price": 2973.1883932577525,
+    "market_cap": 358679951774.749,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:30:36.711000",
+    "price": 2966.794601934693,
+    "market_cap": 358007564965.1172,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:35:54.706000",
+    "price": 2984.64531430607,
+    "market_cap": 360084528830.22345,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:41:07.217000",
+    "price": 2989.9727920588625,
+    "market_cap": 360137561633.991,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:46:20.005000",
+    "price": 2989.1427566662765,
+    "market_cap": 360906344254.7791,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:50:02.738000",
+    "price": 2986.8862361777165,
+    "market_cap": 360541491894.03467,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T16:55:31.724000",
+    "price": 2984.0031245420287,
+    "market_cap": 360229332699.065,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:00:55.359000",
+    "price": 2987.636272985243,
+    "market_cap": 360540728097.6084,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:05:53.730000",
+    "price": 2986.1597745879812,
+    "market_cap": 360118249191.5954,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:11:24.676000",
+    "price": 2971.2856054559834,
+    "market_cap": 359155558794.34705,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:15:09.900000",
+    "price": 2960.857193580402,
+    "market_cap": 359155558794.34705,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:20:45.263000",
+    "price": 2934.043200096936,
+    "market_cap": 355177073854.31647,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:25:18.944000",
+    "price": 2932.7233716317146,
+    "market_cap": 353938876585.52625,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:30:24.510000",
+    "price": 2946.388932675889,
+    "market_cap": 355366452946.40204,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:35:05.163000",
+    "price": 2941.21172704109,
+    "market_cap": 355339689420.6465,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:41:09.608000",
+    "price": 2935.4682904751035,
+    "market_cap": 354332056313.26416,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:45:07.211000",
+    "price": 2921.799289816729,
+    "market_cap": 353935106565.8799,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:50:55.226000",
+    "price": 2920.185815666318,
+    "market_cap": 352280034800.2912,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T17:56:14.210000",
+    "price": 2924.048392077348,
+    "market_cap": 352908169450.4625,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:00:58.405000",
+    "price": 2925.510097184098,
+    "market_cap": 353093249456.8511,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:06:29.393000",
+    "price": 2936.935563759646,
+    "market_cap": 353093249456.8511,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:11:01.390000",
+    "price": 2936.056452533653,
+    "market_cap": 353093249456.8511,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:15:10.575000",
+    "price": 2935.548883785987,
+    "market_cap": 354368052868.5989,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:20:31.944000",
+    "price": 2940.709342408841,
+    "market_cap": 354975599726.41,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:25:59.167000",
+    "price": 2939.734806210294,
+    "market_cap": 354598233801.6972,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:31:00.898000",
+    "price": 2942.8312978997305,
+    "market_cap": 355013859407.4007,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:36:49.414000",
+    "price": 2939.0033665282976,
+    "market_cap": 354912523262.261,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:41:36.239000",
+    "price": 2943.040857045421,
+    "market_cap": 355045322391.4928,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:45:35.766000",
+    "price": 2944.3101801295315,
+    "market_cap": 355415039819.08203,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:50:47.038000",
+    "price": 2950.687077249246,
+    "market_cap": 355922790129.69183,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T18:56:48.071000",
+    "price": 2961.4109506464947,
+    "market_cap": 357222323828.2156,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:01:57.381000",
+    "price": 2971.9162997183257,
+    "market_cap": 359090293538.37,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:07:04.599000",
+    "price": 2965.5139172377108,
+    "market_cap": 358181798165.33185,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:12:54.274000",
+    "price": 2970.238942316799,
+    "market_cap": 357700783033.5111,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:16:46.273000",
+    "price": 2970.9117554355753,
+    "market_cap": 358572395353.0299,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:21:36.460000",
+    "price": 2971.074047065425,
+    "market_cap": 358282934329.16846,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:26:55.470000",
+    "price": 2971.2116417080993,
+    "market_cap": 358593518694.6702,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:31:51.560000",
+    "price": 2968.9010862748232,
+    "market_cap": 358346155499.9679,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:35:12.662000",
+    "price": 2967.4484743490725,
+    "market_cap": 358175121409.0213,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:40:38.247000",
+    "price": 2973.4852698249856,
+    "market_cap": 358741459822.9205,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:46:45.513000",
+    "price": 2983.9209828897647,
+    "market_cap": 360109274795.97687,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:50:51.718000",
+    "price": 2981.2885476071915,
+    "market_cap": 359942057817.5097,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T19:56:18.959000",
+    "price": 2975.5715348788694,
+    "market_cap": 359245442002.59424,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:01:46.392000",
+    "price": 2975.950442662949,
+    "market_cap": 359179525688.1127,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:06:16.464000",
+    "price": 2981.510128865707,
+    "market_cap": 359634822905.16284,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:11:20.507000",
+    "price": 2987.830005594988,
+    "market_cap": 359908874924.3837,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:16:28.617000",
+    "price": 2988.761690658198,
+    "market_cap": 360755031880.1851,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:21:23.301000",
+    "price": 3001.1613980686693,
+    "market_cap": 360983187830.67267,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:26:25.188000",
+    "price": 3006.3553007804526,
+    "market_cap": 362894102733.4648,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:31:16.985000",
+    "price": 3010.420585020726,
+    "market_cap": 363340889616.1203,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:36:36.599000",
+    "price": 3008.097884664328,
+    "market_cap": 362690676618.6199,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:41:16.725000",
+    "price": 3000.15993614707,
+    "market_cap": 362264246400.8354,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:45:42.476000",
+    "price": 2997.710513805655,
+    "market_cap": 361753421493.93787,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:50:14.695000",
+    "price": 3017.437936607675,
+    "market_cap": 363436691008.9733,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T20:56:01.456000",
+    "price": 3017.1122232737134,
+    "market_cap": 364083751227.4763,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:01:29.342000",
+    "price": 3017.5331977138517,
+    "market_cap": 364199342098.2332,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:05:12.185000",
+    "price": 3015.765499936235,
+    "market_cap": 363970958766.86273,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:10:38.628000",
+    "price": 3022.308420456621,
+    "market_cap": 364967490450.37036,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:15:44.751000",
+    "price": 3019.637266338528,
+    "market_cap": 364967490450.37036,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:20:32.714000",
+    "price": 3016.3500784237135,
+    "market_cap": 364131073862.0125,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:26:30.396000",
+    "price": 3012.2130187042058,
+    "market_cap": 363668005243.493,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:31:36.908000",
+    "price": 3013.3238815252157,
+    "market_cap": 363653347661.3446,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:35:40.339000",
+    "price": 3009.1040217171144,
+    "market_cap": 363022707380.4962,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:40:42.055000",
+    "price": 3008.524370212471,
+    "market_cap": 363159345836.0809,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:46:07.407000",
+    "price": 3012.1476366745887,
+    "market_cap": 363462917075.99664,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:50:11.906000",
+    "price": 3013.670518994308,
+    "market_cap": 363782234059.2561,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T21:55:55.108000",
+    "price": 3014.7369785719593,
+    "market_cap": 363975500711.8232,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:01:03.587000",
+    "price": 3012.576998528178,
+    "market_cap": 363726631891.9542,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:06:19.341000",
+    "price": 3014.6780503705336,
+    "market_cap": 364146357982.0292,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:11:25.009000",
+    "price": 3013.0814635392435,
+    "market_cap": 363764388989.59296,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:16:37.378000",
+    "price": 3011.124513707061,
+    "market_cap": 363489916975.6272,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:22:36.338000",
+    "price": 3002.266107017684,
+    "market_cap": 362331768852.2671,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:25:10.381000",
+    "price": 3004.4868068791834,
+    "market_cap": 362331768852.2671,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:30:19.171000",
+    "price": 3003.8788600381017,
+    "market_cap": 362720789346.2385,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:35:15.387000",
+    "price": 3004.8745084816305,
+    "market_cap": 362632412916.12994,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:40:21.865000",
+    "price": 3013.534237116027,
+    "market_cap": 363446591381.80414,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:46:28.590000",
+    "price": 3015.108732789616,
+    "market_cap": 363945771347.18274,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:50:13.133000",
+    "price": 3015.4674346848637,
+    "market_cap": 363916651424.2875,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T22:55:06.106000",
+    "price": 3016.3660575021154,
+    "market_cap": 363938474759.76215,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:00:13.869000",
+    "price": 3016.162228636585,
+    "market_cap": 364134003775.32294,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:05:05.525000",
+    "price": 3008.986284777447,
+    "market_cap": 363179128020.9798,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:11:13.532000",
+    "price": 3014.086391023805,
+    "market_cap": 363273148973.35596,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:16:27.497000",
+    "price": 3015.94367581751,
+    "market_cap": 364004332202.5748,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:20:56.208000",
+    "price": 3016.553487907896,
+    "market_cap": 363971625456.7239,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:26:33.527000",
+    "price": 3019.1725139115447,
+    "market_cap": 364512302925.87714,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:31:28.749000",
+    "price": 3022.014503584272,
+    "market_cap": 364728269221.065,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:35:49.052000",
+    "price": 3023.7070972335937,
+    "market_cap": 364619980847.7464,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:40:07.578000",
+    "price": 3027.860777371564,
+    "market_cap": 365114111167.0953,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:45:47.613000",
+    "price": 3028.049613923632,
+    "market_cap": 365510544205.7037,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:50:53.294000",
+    "price": 3024.8361774057007,
+    "market_cap": 365664124020.3206,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-27T23:55:52.458000",
+    "price": 3021.091516998928,
+    "market_cap": 364796970141.98334,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:01:22.095000",
+    "price": 3022.689422002903,
+    "market_cap": 364759521456.59375,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:05:56.423000",
+    "price": 3016.6130088915015,
+    "market_cap": 364759521456.59375,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:11:10.564000",
+    "price": 3018.2449390633756,
+    "market_cap": 364759521456.59375,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:16:06.924000",
+    "price": 3019.4409940201854,
+    "market_cap": 364251529342.7418,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:20:57.982000",
+    "price": 3018.0299189311795,
+    "market_cap": 364164245927.4243,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:26:04.161000",
+    "price": 3021.842353908565,
+    "market_cap": 364403817926.8927,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:31:07.621000",
+    "price": 3020.6430230129163,
+    "market_cap": 364695600864.739,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:36:02.542000",
+    "price": 3016.5953621416734,
+    "market_cap": 364108783811.2311,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:40:58.525000",
+    "price": 3013.6544592905148,
+    "market_cap": 363917000469.5567,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:45:57.990000",
+    "price": 3012.4172671211772,
+    "market_cap": 363636205269.2295,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:51:00.439000",
+    "price": 3016.604418597631,
+    "market_cap": 364026679762.3811,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T00:56:21.505000",
+    "price": 3016.8050351310535,
+    "market_cap": 364299567218.11414,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:01:53.354000",
+    "price": 3018.581880350431,
+    "market_cap": 364435057990.71747,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:06:33.415000",
+    "price": 3020.8952849263837,
+    "market_cap": 364579367636.46234,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:10:11.246000",
+    "price": 3019.60130764054,
+    "market_cap": 364461266239.0753,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:15:20.901000",
+    "price": 3014.939465894717,
+    "market_cap": 364461266239.0753,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:20:51.590000",
+    "price": 3016.503200550903,
+    "market_cap": 364082615682.7589,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:26:22.928000",
+    "price": 3011.222559577117,
+    "market_cap": 363562363467.1333,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:31:20.276000",
+    "price": 3010.129044784311,
+    "market_cap": 363298473999.2728,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:36:27.542000",
+    "price": 3008.783145508584,
+    "market_cap": 362843875707.3746,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:41:12.410000",
+    "price": 3007.269503147581,
+    "market_cap": 363008805149.2102,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:45:52.397000",
+    "price": 3009.2803002528726,
+    "market_cap": 363156955596.8394,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:51:17.648000",
+    "price": 3009.7923005328894,
+    "market_cap": 363287609651.31683,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T01:56:54.515000",
+    "price": 3014.623415576846,
+    "market_cap": 363847097412.5951,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:01:46.320000",
+    "price": 3013.540361094201,
+    "market_cap": 363929070233.87115,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:06:26.151000",
+    "price": 3013.0827518349124,
+    "market_cap": 363661204060.82043,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:11:00.739000",
+    "price": 3007.8571617342986,
+    "market_cap": 363060729760.1133,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:16:26.015000",
+    "price": 3007.824627745828,
+    "market_cap": 363060729760.1133,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:21:06.289000",
+    "price": 3010.0302697185402,
+    "market_cap": 363262227349.66675,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:26:28.953000",
+    "price": 3008.9740146378363,
+    "market_cap": 363251383220.5015,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:31:49.911000",
+    "price": 3011.4849423623377,
+    "market_cap": 363355069999.1669,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:36:03.683000",
+    "price": 3006.9465088517773,
+    "market_cap": 363093287972.17505,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:41:28.980000",
+    "price": 3006.7055389749394,
+    "market_cap": 362767131192.2444,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:45:37.406000",
+    "price": 3004.633356723594,
+    "market_cap": 362803052511.91833,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:51:28.992000",
+    "price": 3002.087662933732,
+    "market_cap": 362467201686.74414,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T02:55:45.719000",
+    "price": 3004.1629397338443,
+    "market_cap": 362658688490.6206,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:01:42.703000",
+    "price": 3006.420625524287,
+    "market_cap": 362805805607.9336,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:05:21.072000",
+    "price": 3004.293630224639,
+    "market_cap": 362728101409.2455,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:11:28.679000",
+    "price": 3002.1989584648422,
+    "market_cap": 362605205707.5767,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:16:40.369000",
+    "price": 2999.3555787897117,
+    "market_cap": 362033401038.42487,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:21:39.383000",
+    "price": 2993.8702973379404,
+    "market_cap": 361315445288.734,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:25:26.694000",
+    "price": 2997.4505361977644,
+    "market_cap": 361521324820.7784,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:30:38.965000",
+    "price": 2997.8306539191262,
+    "market_cap": 361815723782.1995,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:35:36.623000",
+    "price": 3000.4288797470217,
+    "market_cap": 361819822834.3823,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:40:39.981000",
+    "price": 2999.258187730733,
+    "market_cap": 361962946909.66205,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:45:14.705000",
+    "price": 2998.511442119641,
+    "market_cap": 362041958286.1289,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:50:22.355000",
+    "price": 3000.3060536448415,
+    "market_cap": 362121779254.54504,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T03:56:05.257000",
+    "price": 3001.862866870233,
+    "market_cap": 362140615127.4337,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:00:22.344000",
+    "price": 3001.0434835073434,
+    "market_cap": 362265078513.8107,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:05:30.444000",
+    "price": 3001.218870077513,
+    "market_cap": 362267733077.2141,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:10:29.896000",
+    "price": 2996.6020265181005,
+    "market_cap": 362224329425.1123,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:16:04.570000",
+    "price": 2993.8431389410134,
+    "market_cap": 361574247269.5461,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:21:37.419000",
+    "price": 2990.935838562969,
+    "market_cap": 360973073209.6054,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:26:32.381000",
+    "price": 2992.1766993014226,
+    "market_cap": 361277220937.5694,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:31:23.028000",
+    "price": 2993.1073167834134,
+    "market_cap": 361210678949.8375,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:36:17.029000",
+    "price": 2996.119965460747,
+    "market_cap": 361614823049.89215,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:41:36.981000",
+    "price": 2997.9851679957173,
+    "market_cap": 361646117387.68896,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:46:45.245000",
+    "price": 2993.6426061082143,
+    "market_cap": 361474753816.1655,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:53:03.044000",
+    "price": 2993.748370382598,
+    "market_cap": 361411356189.52765,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T04:55:54.759000",
+    "price": 2994.2018565113362,
+    "market_cap": 361387674335.21063,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:01:09.058000",
+    "price": 2995.900166692166,
+    "market_cap": 361512079875.5261,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:06:03.718000",
+    "price": 3000.5593678864598,
+    "market_cap": 361888156953.36194,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:11:05.644000",
+    "price": 3002.69148842385,
+    "market_cap": 362411799922.8964,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:15:21.668000",
+    "price": 2997.3555532067185,
+    "market_cap": 362411799922.8964,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:21:01.871000",
+    "price": 2995.2710462638142,
+    "market_cap": 361475483285.477,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:26:16.208000",
+    "price": 2995.3744164607665,
+    "market_cap": 361465212918.1599,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:31:11.629000",
+    "price": 2995.021017367054,
+    "market_cap": 361366261154.3245,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:37:02.067000",
+    "price": 2998.411349122731,
+    "market_cap": 361896880105.87634,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:41:28.428000",
+    "price": 2998.1622433836305,
+    "market_cap": 361793923836.54144,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:46:23.477000",
+    "price": 2997.1861282330715,
+    "market_cap": 361817516498.6132,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:50:19.678000",
+    "price": 2998.1548353693033,
+    "market_cap": 362009803766.92816,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T05:55:49.488000",
+    "price": 2997.9134173610155,
+    "market_cap": 361842284221.68304,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:01:30.980000",
+    "price": 3002.239689706273,
+    "market_cap": 362127228367.0604,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:06:26.333000",
+    "price": 3008.7904586527416,
+    "market_cap": 362127228367.0604,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:11:37.556000",
+    "price": 3006.78681942212,
+    "market_cap": 362887138769.3524,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:15:35.438000",
+    "price": 3008.1345472662692,
+    "market_cap": 362887138769.3524,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:20:23.690000",
+    "price": 3007.408032156662,
+    "market_cap": 362887138769.3524,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:26:05.350000",
+    "price": 3007.6915590857543,
+    "market_cap": 363036933632.1902,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:31:34.016000",
+    "price": 3007.4135049944225,
+    "market_cap": 362977889731.85284,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:35:28.693000",
+    "price": 3009.5475856511393,
+    "market_cap": 363289731939.6047,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:40:27.678000",
+    "price": 3004.199076630668,
+    "market_cap": 363042927798.98914,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:46:02.896000",
+    "price": 3001.8279838197773,
+    "market_cap": 362321034452.80817,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:50:35.039000",
+    "price": 3004.116465588647,
+    "market_cap": 362486462016.3981,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T06:56:16.459000",
+    "price": 3011.9709293581827,
+    "market_cap": 363539104580.449,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:01:36.775000",
+    "price": 3010.9498621274247,
+    "market_cap": 363445354964.2547,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:06:06.309000",
+    "price": 3010.7762769407736,
+    "market_cap": 363317641709.4917,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:11:26.741000",
+    "price": 3009.7163740061587,
+    "market_cap": 363239801611.7805,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:15:36.482000",
+    "price": 3005.516309163056,
+    "market_cap": 363239801611.7805,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:21:06.481000",
+    "price": 3004.8822415134064,
+    "market_cap": 362641031597.44714,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:26:26.798000",
+    "price": 3003.824450254969,
+    "market_cap": 362535059996.1426,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:31:44.141000",
+    "price": 3002.7337831489035,
+    "market_cap": 362415732835.1576,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:36:51.699000",
+    "price": 3001.113459461591,
+    "market_cap": 362365223013.4005,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:40:47.351000",
+    "price": 3001.6908232876085,
+    "market_cap": 362248967571.11,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:46:21.018000",
+    "price": 3004.3828771717313,
+    "market_cap": 362481561156.84076,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:50:18.137000",
+    "price": 3005.144061098038,
+    "market_cap": 362672965063.3735,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T07:55:35.128000",
+    "price": 3003.615373163201,
+    "market_cap": 362746898415.08496,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:01:04.899000",
+    "price": 3002.1292677700785,
+    "market_cap": 362428263670.7349,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:06:20.856000",
+    "price": 3002.2265103860705,
+    "market_cap": 362312897538.57635,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:11:35.243000",
+    "price": 2999.820388622074,
+    "market_cap": 362207138007.65576,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:16:32.504000",
+    "price": 2997.917373559095,
+    "market_cap": 362207138007.65576,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:21:29.986000",
+    "price": 2996.348235036846,
+    "market_cap": 361680573372.65265,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:26:46.766000",
+    "price": 2996.3272430412417,
+    "market_cap": 361639840287.6719,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:30:16.618000",
+    "price": 2994.599551492997,
+    "market_cap": 361412914457.3014,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:35:13.036000",
+    "price": 2992.6558111085515,
+    "market_cap": 361512109905.831,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:41:05.661000",
+    "price": 2993.2787677946594,
+    "market_cap": 361087751310.27435,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:45:07.929000",
+    "price": 2993.811157075025,
+    "market_cap": 361332273521.01086,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:49:58.470000",
+    "price": 2991.6818058975628,
+    "market_cap": 361074306976.6949,
+    "volume": null
+  },
+  {
+    "coin_id": "ethereum",
+    "timestamp": "2026-01-28T08:56:38.096000",
+    "price": 2990.831975836737,
+    "market_cap": 360976592453.5809,
+    "volume": null
+  }
+]

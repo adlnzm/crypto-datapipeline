@@ -1,0 +1,1432 @@
+[
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769436986015,
+    "price": 87637.27269016994
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769437285440,
+    "price": 87586.931280637
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769437574392,
+    "price": 87615.53533858282
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769437922178,
+    "price": 87501.8070721055
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769438221261,
+    "price": 88027.63933232629
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769438432623,
+    "price": 88066.3469869649
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769438773657,
+    "price": 88065.84222194739
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769439035770,
+    "price": 88050.18124454579
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769439373504,
+    "price": 87793.29041363124
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769439732973,
+    "price": 88110.31439757539
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769440051909,
+    "price": 88150.99086626446
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769440233018,
+    "price": 88166.14138951155
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769440542745,
+    "price": 88635.08695438199
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769440885874,
+    "price": 88530.39008367165
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769441212868,
+    "price": 88382.4809838532
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769441504215,
+    "price": 88348.83413135364
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769441732859,
+    "price": 88234.23917294596
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769442034283,
+    "price": 88166.7811095302
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769442313753,
+    "price": 87384.15408507209
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769442690935,
+    "price": 87527.9745009327
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769442952073,
+    "price": 87507.52080687409
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769443256763,
+    "price": 87581.75024409368
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769443592944,
+    "price": 87539.60057925836
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769443901329,
+    "price": 87305.19543254793
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769444233068,
+    "price": 87180.12404234322
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769444542122,
+    "price": 87446.1402226859
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769444850567,
+    "price": 87746.62409138915
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769445153164,
+    "price": 87606.08420818468
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769445323164,
+    "price": 87625.45461674187
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769445631750,
+    "price": 87477.15450463706
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769445972577,
+    "price": 87395.3714771942
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769446289719,
+    "price": 87709.5597164087
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769446582912,
+    "price": 87702.16821813115
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769446824615,
+    "price": 87563.38898741045
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769447204869,
+    "price": 87656.23007784323
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769447522477,
+    "price": 87414.0654147445
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769447837589,
+    "price": 87401.8363513845
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769448195718,
+    "price": 87233.27282442163
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769448441380,
+    "price": 87372.39527095262
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769448742268,
+    "price": 87191.7491135076
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769449048786,
+    "price": 87291.72634640001
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769449214661,
+    "price": 87462.86189534783
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769449522352,
+    "price": 87441.5185473722
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769449861797,
+    "price": 87491.32117789681
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769450123539,
+    "price": 87636.7835222475
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769450461991,
+    "price": 87596.95052372369
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769450743184,
+    "price": 87672.73083912466
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769451152080,
+    "price": 87739.9725396893
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769451432826,
+    "price": 87712.8294426795
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769451734492,
+    "price": 87854.49304571317
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769452054595,
+    "price": 87905.40100795976
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769452352287,
+    "price": 88137.34694012429
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769452595005,
+    "price": 88182.66059012385
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769452818576,
+    "price": 88084.8689586654
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769453183008,
+    "price": 87906.39601804655
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769453544846,
+    "price": 88109.99543999776
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769453785518,
+    "price": 88146.72826829564
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769454022883,
+    "price": 88271.22087803639
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769454333348,
+    "price": 88314.7894330013
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769454666694,
+    "price": 88316.27996019725
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769455001709,
+    "price": 88287.96479678196
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769455294074,
+    "price": 88214.89771759852
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769455602334,
+    "price": 88102.71720671133
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769455952597,
+    "price": 88069.81617080921
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769456119012,
+    "price": 88068.89856562964
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769456413433,
+    "price": 88152.16504797473
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769456803323,
+    "price": 88159.48136176012
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769457135830,
+    "price": 88072.78615908408
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769457453506,
+    "price": 87935.03645160636
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769457811551,
+    "price": 87955.70291486586
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769458065424,
+    "price": 87986.38679741925
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769458363065,
+    "price": 87865.18852630862
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769458661639,
+    "price": 87759.84145699363
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769458883259,
+    "price": 87845.90573518425
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769459221327,
+    "price": 87782.8223867666
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769459532154,
+    "price": 87793.79023533144
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769459723352,
+    "price": 87747.29816957573
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769460043877,
+    "price": 87731.98852387555
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769460375862,
+    "price": 87716.73846372109
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769460623847,
+    "price": 87662.19561633845
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769460954003,
+    "price": 87492.81347205819
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769461292203,
+    "price": 87520.83581628976
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769461607742,
+    "price": 87501.0717764672
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769461897481,
+    "price": 87641.72978848412
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769462233901,
+    "price": 87750.53323221083
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769462535097,
+    "price": 87689.49775941184
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769462774697,
+    "price": 87743.50007553543
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769463081576,
+    "price": 87849.70175255704
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769463361919,
+    "price": 87820.40638743284
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769463636776,
+    "price": 87804.26335508397
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769463941900,
+    "price": 88043.32981752299
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769464252428,
+    "price": 87965.47488209365
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769464532487,
+    "price": 88032.0989019539
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769464872421,
+    "price": 87969.52683727005
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769465201739,
+    "price": 87999.5349260055
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769465545502,
+    "price": 87969.20896734564
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769465850565,
+    "price": 88005.57042309969
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769466143029,
+    "price": 87944.57389456425
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769466302269,
+    "price": 87916.6667222293
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769466682117,
+    "price": 87976.7201105907
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769467035472,
+    "price": 88128.02314265314
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769467321558,
+    "price": 88032.9936437291
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769467621642,
+    "price": 88086.43158917408
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769467911941,
+    "price": 88073.96064326519
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769468221720,
+    "price": 88069.63121348686
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769468542816,
+    "price": 88019.52440277697
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769468822589,
+    "price": 87976.07848861022
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769469121288,
+    "price": 88060.70176451946
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769469421179,
+    "price": 88055.17364352425
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769469712192,
+    "price": 88161.36435699342
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769470021269,
+    "price": 88287.44053464492
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769470313471,
+    "price": 88381.87238984401
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769470627097,
+    "price": 88475.37230775507
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769470911802,
+    "price": 88546.01970996168
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769471172320,
+    "price": 88457.48114508501
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769471436626,
+    "price": 88425.64805219612
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769471761211,
+    "price": 88307.8612070438
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769472122237,
+    "price": 88220.23655963481
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769472433969,
+    "price": 88127.56597649769
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769472736109,
+    "price": 88135.57471633783
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769472935007,
+    "price": 88140.24758339007
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769473261329,
+    "price": 88212.51103690935
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769473592568,
+    "price": 88319.1727996241
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769473903154,
+    "price": 88276.084076471
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769474191979,
+    "price": 88257.05686781656
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769474548938,
+    "price": 88208.54820641107
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769474743418,
+    "price": 88202.1935830228
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769475056493,
+    "price": 88161.27341528315
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769475373980,
+    "price": 88251.51156724968
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769475691875,
+    "price": 88237.79696918432
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769476001567,
+    "price": 88115.80127964164
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769476304079,
+    "price": 88149.63418667996
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769476607119,
+    "price": 88161.9283627954
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769476904377,
+    "price": 88247.69013785894
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769477204763,
+    "price": 88314.99379114821
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769477542331,
+    "price": 88330.87153280192
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769477851437,
+    "price": 88448.67156360019
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769478064253,
+    "price": 88555.37636221117
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769478360665,
+    "price": 88525.90183820656
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769478622538,
+    "price": 88552.44496908666
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769478977080,
+    "price": 88440.65981361954
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769479322888,
+    "price": 88494.43086859603
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769479620452,
+    "price": 88663.8915816226
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769480763542,
+    "price": 88525.04609109975
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769480887358,
+    "price": 88482.87994869487
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769481114670,
+    "price": 88499.19979391273
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769481403309,
+    "price": 88554.45114306756
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769481706136,
+    "price": 88677.94187236825
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769482004328,
+    "price": 88634.69960835828
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769482316434,
+    "price": 88659.73339976255
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769482562467,
+    "price": 88661.6014283046
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769482858231,
+    "price": 88661.52795104065
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769483136947,
+    "price": 88661.52786934674
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769483448517,
+    "price": 88661.52786934674
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769483756250,
+    "price": 88652.49272193381
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769484036021,
+    "price": 88650.292737842
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769484321904,
+    "price": 88655.20993563427
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769484654963,
+    "price": 88651.76342600526
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769484995903,
+    "price": 88615.18255659637
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769485228594,
+    "price": 88701.15485081422
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769485552181,
+    "price": 88694.50428589802
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769485862954,
+    "price": 88666.67408836538
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769486166147,
+    "price": 88630.20935304566
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769486421625,
+    "price": 88650.48533949278
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769486734267,
+    "price": 88656.97917737959
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769487065987,
+    "price": 88745.35283615738
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769487373031,
+    "price": 88723.92249464261
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769487662559,
+    "price": 88722.85365724863
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769487965375,
+    "price": 88763.1961462856
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769488263652,
+    "price": 88714.40507633923
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769488566770,
+    "price": 88711.4556069324
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769488881538,
+    "price": 88652.77706475781
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769489181721,
+    "price": 88580.89942882629
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769489467381,
+    "price": 88507.30833610626
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769489776568,
+    "price": 88452.64703120198
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769490066556,
+    "price": 88468.85107383129
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769490401103,
+    "price": 88433.85262267907
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769490668209,
+    "price": 88374.62919314856
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769490973943,
+    "price": 88344.82890009927
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769491287924,
+    "price": 88305.59523290311
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769491577256,
+    "price": 88376.02023117285
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769491888717,
+    "price": 88389.05983335088
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769492206724,
+    "price": 88428.63510852722
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769492507055,
+    "price": 88433.27549870967
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769492843809,
+    "price": 88402.63105436834
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769493083686,
+    "price": 88404.39720523343
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769493373925,
+    "price": 88339.21679757003
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769493704717,
+    "price": 88349.11970542347
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769493991875,
+    "price": 88383.84995830724
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769494210525,
+    "price": 88385.12343751072
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769494531801,
+    "price": 88382.32014082154
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769494852455,
+    "price": 88376.23617602274
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769495165336,
+    "price": 88378.05388046779
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769495479501,
+    "price": 88280.43474748748
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769495789070,
+    "price": 88206.61660121908
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769496133442,
+    "price": 88240.36693160461
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769496404572,
+    "price": 88188.10454440571
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769496726802,
+    "price": 88229.74804515427
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769497047013,
+    "price": 88213.01005173146
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769497303471,
+    "price": 88226.33438209291
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769497686536,
+    "price": 88315.24886262465
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769497873084,
+    "price": 88370.04970236676
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769498205404,
+    "price": 88382.23911537904
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769498419835,
+    "price": 88369.53226088898
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769498723178,
+    "price": 88371.03564820423
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769499076858,
+    "price": 88415.15414608843
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769499396386,
+    "price": 88444.47807778504
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769499642905,
+    "price": 88422.5146650819
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769499938756,
+    "price": 88357.85769562887
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769500256094,
+    "price": 88280.46546014641
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769500565280,
+    "price": 88245.85783779171
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769500838227,
+    "price": 88220.8227325611
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769501152658,
+    "price": 88251.03972997995
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769501489454,
+    "price": 88263.84292030189
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769501781136,
+    "price": 88266.51204084724
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769502074929,
+    "price": 88248.02487695808
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769502381527,
+    "price": 88145.41253855985
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769502745475,
+    "price": 88115.49718556044
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769502985456,
+    "price": 88181.90552407445
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769503275779,
+    "price": 88124.39816124299
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769503577471,
+    "price": 88108.51875673207
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769503911781,
+    "price": 88054.66674846888
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769504183236,
+    "price": 88085.40038674355
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769504495252,
+    "price": 88045.46038431428
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769504778983,
+    "price": 87983.99672864292
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769505075214,
+    "price": 87917.9471730855
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769505357502,
+    "price": 87900.58269983582
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769505696083,
+    "price": 87899.98732994078
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769506006736,
+    "price": 87909.55906049677
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769506310588,
+    "price": 87878.9742797638
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769506564235,
+    "price": 87837.32848089919
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769506917391,
+    "price": 87919.84942174418
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769507103583,
+    "price": 87905.99935715602
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769507540668,
+    "price": 87861.97421260456
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769507797512,
+    "price": 87817.22952521489
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769508115426,
+    "price": 87778.13353200698
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769508377319,
+    "price": 87832.46484999346
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769508634808,
+    "price": 87856.60172314
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769508977519,
+    "price": 87888.56344325044
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769509233342,
+    "price": 87911.55303293778
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769509554012,
+    "price": 87879.37581184482
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769509860995,
+    "price": 87866.12754732912
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769510179301,
+    "price": 87775.87022328914
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769510475842,
+    "price": 87725.27362135811
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769510763007,
+    "price": 87709.41900515661
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769511063979,
+    "price": 87710.7872239842
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769511366226,
+    "price": 87693.62511397565
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769511730803,
+    "price": 87674.71057844856
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769511957644,
+    "price": 87684.48179797416
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769512252281,
+    "price": 87738.19195101796
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769512597991,
+    "price": 87774.57363881526
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769512829110,
+    "price": 87740.04192110305
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769513214569,
+    "price": 87732.00878075314
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769513508099,
+    "price": 87762.93413705219
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769513807239,
+    "price": 87871.23528012456
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769514108740,
+    "price": 87851.57733802412
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769514404954,
+    "price": 87915.03428645848
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769514618170,
+    "price": 87943.69715010579
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769514906776,
+    "price": 87932.67391664303
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769515229162,
+    "price": 87892.82067658257
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769515516509,
+    "price": 87883.43394605564
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769515819781,
+    "price": 87893.0951856282
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769516168244,
+    "price": 87971.67736090971
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769516465266,
+    "price": 87998.38262114125
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769516767286,
+    "price": 88025.56324644538
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769517067033,
+    "price": 87927.3417905487
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769517379217,
+    "price": 87932.00630758348
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769517689526,
+    "price": 87902.36680218973
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769517991443,
+    "price": 87885.40089383065
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769518295686,
+    "price": 87883.80058075371
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769518523631,
+    "price": 87894.70269847012
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769518853484,
+    "price": 87866.67286099448
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769519165357,
+    "price": 87885.70069115932
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769519481717,
+    "price": 87812.60894536517
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769519779830,
+    "price": 87803.91967505694
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769520017266,
+    "price": 87733.21120544031
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769520316355,
+    "price": 87760.30841884589
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769520598460,
+    "price": 87716.49420746819
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769520921175,
+    "price": 87780.45360258862
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769521214434,
+    "price": 87900.96825866365
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769521558910,
+    "price": 87921.99594020392
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769521866027,
+    "price": 87803.14184573697
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769522209605,
+    "price": 87874.4053822863
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769522449363,
+    "price": 87862.20040644784
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769522805079,
+    "price": 87929.954425515
+  },
+  {
+    "coin_id": "bitcoin",
+    "timestamp": 1769523051137,
+    "price": 87907.72038528265
+  }
+]

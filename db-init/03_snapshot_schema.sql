@@ -1,0 +1,7 @@
+\connect airflow_snapshot;
+
+CREATE SCHEMA IF NOT EXISTS snapshot AUTHORIZATION airflow;
+
+GRANT USAGE ON SCHEMA snapshot TO airflow;
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA snapshot TO airflow;
+GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA snapshot TO airflow;
