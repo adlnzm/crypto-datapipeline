@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Runtime state
+.pipeline_state.json
+
+# Logs
+*.log
+logs/
+
+# Airflow
+airflow/logs/
+airflow/logs/__pycache__/
+
+# OS
+.DS_Store
